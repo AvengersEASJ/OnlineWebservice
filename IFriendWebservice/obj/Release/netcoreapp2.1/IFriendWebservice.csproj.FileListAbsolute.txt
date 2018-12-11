@@ -1,0 +1,15 @@
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\bin\Release\netcoreapp2.1\IFriendWebservice.deps.json
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\bin\Release\netcoreapp2.1\IFriendWebservice.runtimeconfig.json
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\bin\Release\netcoreapp2.1\IFriendWebservice.runtimeconfig.dev.json
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\bin\Release\netcoreapp2.1\IFriendWebservice.dll
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\bin\Release\netcoreapp2.1\IFriendWebservice.pdb
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.csproj.CoreCompileInputs.cache
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.RazorAssemblyInfo.cache
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.RazorAssemblyInfo.cs
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.AssemblyInfoInputs.cache
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.AssemblyInfo.cs
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.RazorTargetAssemblyInfo.cache
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.dll
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.pdb
+C:\Users\clang\source\repos\IFriendWebservice\IFriendWebservice\obj\Release\netcoreapp2.1\IFriendWebservice.csprojAssemblyReference.cache
